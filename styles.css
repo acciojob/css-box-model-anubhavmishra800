@@ -1,10 +1,17 @@
 
 /* Your CSS Code here. */
-.boxmodel {
-   width:300px;
-	background-color:#01AEBF;
-	padding: 50px;
-	border: 15px solid #5B49F7 ;
+
+
+.div1{	
+	display:inline-block;
+	border:15px solid blue;
 	margin:20px;
-	content: initial;
+	width:300;
+}
+.div2{
+	background-color:lightblue;
+	padding:50px;
+}
+.div3{
+	width:300px;
 }
