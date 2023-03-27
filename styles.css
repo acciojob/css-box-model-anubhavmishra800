@@ -1,8 +1,10 @@
 
 /* Your CSS Code here. */
- div {
-    background-color: lightblue;
-    width: 300px;
-    padding: 50px;
-    border: 15px solid blue;
+.boxmodel {
+   width:300px;
+	background-color:#01AEBF;
+	padding: 50px;
+	border: 15px solid #5B49F7 ;
+	margin:20px;
+	content: initial;
 }
