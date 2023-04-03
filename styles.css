@@ -1,20 +1,8 @@
 
-/* Your CSS Code here. */
-*{
-	margin:0;
-	padding:0;
-}
-
-.div1{	
-	display:inline-block;
-	border:15px solid blue;
-	margin:20px;
-	width:300;
-}
-.div2{
-	background-color:lightblue;
-	padding:50px;
-}
-.div3{
-	width:300px;
-}
+#content{
+            margin: 20px;
+            border: 15px solid blue;
+            padding: 50px;
+            background-color: lightblue;
+            width: 300px;
+        }
